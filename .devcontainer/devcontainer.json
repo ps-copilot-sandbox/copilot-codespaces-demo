@@ -8,11 +8,10 @@
   "customizations": {
       "vscode": {
       "extensions": [
-        "github.copilot",
-        "github.copilot-chat",
-        "vsls-contrib.codetour",
-        "ms-python.python",
-        "Phu1237.vs-browser"
+          "github.copilot@insiders",
+          "markdown-lint.markdownlinter",
+          "ms-python.python", // Python extension
+          "ms-python.vscode-pylance" // Pylance extension for Python
       ]}
   }
 }
