@@ -8,7 +8,7 @@
   "customizations": {
       "vscode": {
       "extensions": [
-          "github.copilot",
+          "github.copilot@insiders",
           "markdown-lint.markdownlinter",
           "ms-python.python", // Python extension
           "ms-python.vscode-pylance" // Pylance extension for Python
